@@ -14,8 +14,6 @@ public class AndroidDimensUtil {
     /**
      * 基准宽度和高度(通常设置成UI图的分辨率的高度和宽度)
      */
-//    private static final int baseHeight = 1920;
-//    private static final int baseWidth = 1080;
     private static final int baseHeight = 1334;
     private static final int baseWidth = 750;
 
